@@ -1,8 +1,7 @@
-# Rproject
+# Rproject <h3>차찬영</h3>
 
-# 1주차 - 8/31
-전체적인 강의 일정과 주의사항 설명
-R 언어에 대한 소개 및 개발환경 세팅 진행
+# 4주차 - 9/21
+
 
 # 2주차 - 9/7
 github 저장소 생성 및 최초 커밋 실행
@@ -12,4 +11,11 @@ README 파일 생성
 API 요청하는 메시지, 요청하여 돌아오는 응답 메시지 확인
 <인증링크>
 http://openapi.molit.go.kr:8081/OpenAPI_ToolInstallPackage/service/rest/RTMSOBJSvc/getRTMSDataSvcAptTrade?serviceKey=%2F7zyUdT%2FUx6zMiL0q4QvrkI1%2B%2BURCBapP0EZfxvg8X0rlPhB%2FcvUAt0BZvaGKPYGu2s52D8az6NNkIKhJ17gFw%3D%3D&LAWD_CD=11110&DEAL_YMD=201512
+<decoding>
+/7zyUdT/Ux6zMiL0q4QvrkI1++URCBapP0EZfxvg8X0rlPhB/cvUAt0BZvaGKPYGu2s52D8az6NNkIKhJ17gFw==
+
+
+# 1주차 - 8/31
+전체적인 강의 일정과 주의사항 설명
+R 언어에 대한 소개 및 개발환경 세팅 진행
 
